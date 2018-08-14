@@ -6,6 +6,13 @@ buildscript {
         google()
         jcenter()
     }
+
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs.add('-Xbootclasspath/p:bluetoothservice/libs/frameworkd.jar')
+        }
+    }
+
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.4'
         
@@ -13,6 +20,8 @@ buildscript {
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }
+
+
 }
 
 allprojects {

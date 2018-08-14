@@ -24,7 +24,6 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.MONKEY" />
-                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
         <activity
@@ -33,6 +32,7 @@
             android:launchMode="singleInstance">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
         <activity android:name=".BluetoothPhoneBookActivity">
