@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.autochips.bluetoothservice"
+    android:sharedUserId="com.bluetooth"
+    >
+    <uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"></uses-permission>
+    <uses-permission android:name="android.permission.READ_CONTACTS" ></uses-permission>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.NoTitleBar">
+        <service
+            android:name="com.autochips.bluetoothservice.BluetoothService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.autochips.bluetoothservice.IBluetoothSetFunctionInterface"></action>
+                <action android:name="com.autochips.bluetoothservice.IBluetoothA2dpFunctionInterface"></action>
+                <action android:name="com.autochips.bluetoothservice.IBluetoothPhoneCallInterface"></action>
+                <action android:name="com.autochips.bluetoothservice.IBluetoothPhoneBookInterface"></action>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

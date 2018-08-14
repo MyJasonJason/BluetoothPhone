@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- bluetoothset start -->
+    <dimen name="bluetoothset_relativalayout_title_width">466px</dimen>
+    <dimen name="bluetoothset_relativalayout_title_height">59px</dimen>
+    <dimen name="bluetoothset_relativalayout_title_marginleft">39px</dimen>
+    <dimen name="bluetoothset_relativalayout_title_margintop">16px</dimen>
+    <dimen name="bluetoothset_togglebtn_width">72px</dimen>
+    <dimen name="bluetoothset_togglebtn_height">25px</dimen>
+    <dimen name="bluetoothset_togglebtn_marginleft">380px</dimen>
+    <dimen name="bluetoothset_togglebtn_margintop">16px</dimen>
+    <dimen name="bluetoothset_text_btname_marginleft">15px</dimen>
+    <dimen name="bluetoothset_text_btname_margintop">12px</dimen>
+	
+	<dimen name="bluetoothset_relativalayout_autoconnect_width">466px</dimen>
+    <dimen name="bluetoothset_relativalayout_autoconnect_height">59px</dimen>
+    <dimen name="bluetoothset_relativalayout_autoconnect_marginleft">521px</dimen>
+    <dimen name="bluetoothset_relativalayout_autoconnect_margintop">16px</dimen>
+    <dimen name="bluetoothset_togglebtn_autoconnect_width">72px</dimen>
+    <dimen name="bluetoothset_togglebtn_autoconnect_height">25px</dimen>
+    <dimen name="bluetoothset_togglebtn_autoconnect_marginleft">380px</dimen>
+    <dimen name="bluetoothset_togglebtn_autoconnect_margintop">16px</dimen>
+    <dimen name="bluetoothset_text_autoconnect_marginleft">15px</dimen>
+    <dimen name="bluetoothset_text_autoconnect_margintop">12px</dimen>
+
+    <dimen name="bluetoothset_relativelayout_pairlist_width">457px</dimen>
+    <dimen name="bluetoothset_relativelayout_pairlist_height">405px</dimen>
+    <dimen name="bluetoothset_relativelayout_pairlist_marginleft">44px</dimen>
+    <dimen name="bluetoothset_relativelayout_pairlist_margintop">96px</dimen>
+    <dimen name="bluetoothset_text_pairdevice_marginleft">15px</dimen>
+    <dimen name="bluetoothset_text_pairdevice_margintop">13px</dimen>
+
+    <dimen name="bluetoothset_img_line_width">436px</dimen>
+    <dimen name="bluetoothset_img_line_height">1px</dimen>
+    <dimen name="bluetoothset_img_line_marginleft">8px</dimen>
+    <dimen name="bluetoothset_img_line_margintop">56px</dimen>
+
+    <dimen name="bluetoothset_relativelayout_unpairlist_width">457px</dimen>
+    <dimen name="bluetoothset_relativelayout_unpairlist_height">405px</dimen>
+    <dimen name="bluetoothset_relativelayout_unpairlist_marginleft">525px</dimen>
+    <dimen name="bluetoothset_relativelayout_unpairlist_margintop">96px</dimen>
+    <dimen name="bluetoothset_text_unpairdevice_marginleft">15px</dimen>
+    <dimen name="bluetoothset_text_unpairdevice_margintop">13px</dimen>
+    <dimen name="bluetoothset_btn_refresh_width">43px</dimen>
+    <dimen name="bluetoothset_btn_refresh_height">38px</dimen>
+    <dimen name="bluetoothset_btn_refresh_marginleft">397px</dimen>
+    <dimen name="bluetoothset_btn_refresh_margintop">10px</dimen>
+    <dimen name="bluetoothset_img_loading_width">43px</dimen>
+    <dimen name="bluetoothset_img_loading_height">38px</dimen>
+    <dimen name="bluetoothset_img_loading_marginleft">341px</dimen>
+    <dimen name="bluetoothset_img_loading_margintop">10px</dimen>
+
+    <dimen name="bluetoothset_listview_width">436px</dimen>
+    <dimen name="bluetoothset_listview_height">348px</dimen>
+    <dimen name="bluetoothset_listview_marginleft">8px</dimen>
+    <dimen name="bluetoothset_listview_margintop">57px</dimen>
+    <dimen name="bluetoothset_list_item_width">457px</dimen>
+    <dimen name="bluetoothset_list_item_height">70px</dimen>
+    <dimen name="bluetoothset_list_item_text_name_marginleft">7px</dimen>
+    <dimen name="bluetoothset_list_item_text_name_margintop">18px</dimen>
+    <dimen name="bluetoothset_list_item_text_state_marginright">10px</dimen>
+    <dimen name="bluetoothset_list_item_text_state_margintop">18px</dimen>
+
+    <dimen name="bluetoothset_dialog_width">412px</dimen>
+    <dimen name="bluetoothset_dialog_height">294px</dimen>
+    <dimen name="bluetoothset_dialog_text_name_height">50px</dimen>
+    <dimen name="bluetoothset_dialog_text_name_margintop">60px</dimen>
+    <dimen name="bluetoothset_dialog_text_pincode_height">50px</dimen>
+    <dimen name="bluetoothset_dialog_text_pincode_margintop">120px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_width">130px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_height">59px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_marginleft">14px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_margintop">204px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_cancel_width">130px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_cancel_height">59px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_cancel_marginleft">274px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_cancel_margintop">204px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_delete_width">130px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_delete_height">59px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_delete_marginleft">144px</dimen>
+    <dimen name="bluetoothset_dialog_btn_pair_delete_margintop">204px</dimen>
+
+    <!-- bluetoothset end -->
+
+    <!-- bluetoothmusic start -->
+    <dimen name="bluetoothmusic_img_id3_width">239px</dimen>
+    <dimen name="bluetoothmusic_img_id3_height">192px</dimen>
+    <dimen name="bluetoothmusic_img_id3_marginleft">82px</dimen>
+    <dimen name="bluetoothmusic_img_id3_margintop">117px</dimen>
+    <dimen name="bluetoothmusic_img_songname_width">41px</dimen>
+    <dimen name="bluetoothmusic_img_songname_height">41px</dimen>
+    <dimen name="bluetoothmusic_img_songname_marginleft">459px</dimen>
+    <dimen name="bluetoothmusic_img_songname_margintop">84px</dimen>
+    <dimen name="bluetoothmusic_img_album_width">41px</dimen>
+    <dimen name="bluetoothmusic_img_album_height">41px</dimen>
+    <dimen name="bluetoothmusic_img_album_marginleft">459px</dimen>
+    <dimen name="bluetoothmusic_img_album_margintop">174px</dimen>
+    <dimen name="bluetoothmusic_img_singer_width">41px</dimen>
+    <dimen name="bluetoothmusic_img_singer_height">41px</dimen>
+    <dimen name="bluetoothmusic_img_singer_marginleft">459px</dimen>
+    <dimen name="bluetoothmusic_img_singer_margintop">254px</dimen>
+    <dimen name="bluetoothmusic_text_id3_marginleft">510px</dimen>
+    <dimen name="bluetoothmusic_text_songname_margintop">90px</dimen>
+    <dimen name="bluetoothmusic_text_album_margintop">180px</dimen>
+    <dimen name="bluetoothmusic_text_singer_margintop">260px</dimen>
+
+    <dimen name="bluetoothmusic_relativalayout_control_width">1024px</dimen>
+    <dimen name="bluetoothmusic_relativalayout_control_height">144px</dimen>
+    <dimen name="bluetoothmusic_relativalayout_control_margintop">415px</dimen>
+    <dimen name="bluetoothmusic_btn_control_width">49px</dimen>
+    <dimen name="bluetoothmusic_btn_control_height">50px</dimen>
+    <dimen name="bluetoothmusic_btn_control_margintop">64px</dimen>
+    <dimen name="bluetoothmusic_btn_pre_marginleft">268px</dimen>
+    <dimen name="bluetoothmusic_btn_next_marginleft">707px</dimen>
+    <dimen name="bluetoothmusic_btn_play_pause_marginleft">489px</dimen>
+
+    <dimen name="bluetoothmusic_seekbar_width">831px</dimen>
+    <dimen name="bluetoothmusic_seekbar_marginleft">103px</dimen>
+    <dimen name="bluetoothmusic_seekbar_margintop">18px</dimen>
+    <dimen name="bluetoothmusic_text_curtime_marginleft">30px</dimen>
+    <dimen name="bluetoothmusic_text_curtime_margintop">25px</dimen>
+    <dimen name="bluetoothmusic_text_totaltime_marginleft">935px</dimen>
+    <dimen name="bluetoothmusic_text_totaltime_margintop">25px</dimen>
+    <!-- bluetoothmusic end -->
+
+    <!-- bluetoothphone start -->
+    <dimen name="bluetoothphone_layout_keyboard_marginleft">36px</dimen>
+    <dimen name="bluetoothphone_layout_keyboard_margintop">60px</dimen>
+    <dimen name="bluetoothphone_layout_phone_height">439px</dimen>
+    <dimen name="bluetoothphone_layout_phone_margintop">43px</dimen>
+    <dimen name="bluetoothphone_image_width">74px</dimen>
+    <dimen name="bluetoothphone_image_height">74px</dimen>
+    <dimen name="bluetoothphone_text_height">50px</dimen>
+    <dimen name="bluetoothphone_texttoimg_margintop">32px</dimen>
+    <dimen name="bluetoothphone_layout_control_height">131px</dimen>
+    <dimen name="bluetoothphone_layout_control_margintop">52px</dimen>
+    <dimen name="bluetoothphone_btn_control_width">119px</dimen>
+    <dimen name="bluetoothphone_btn_control_height">81px</dimen>
+    <!-- bluetoothphone end -->
+    
+    <!-- keyboard start -->
+    <dimen name="keyboard_width">449px</dimen>
+    <dimen name="keyboard_height">372px</dimen>
+    <dimen name="keyboard_linearlayout_eidt_width">441px</dimen>
+    <dimen name="keyboard_linearlayout_edit_height">59px</dimen>
+    <dimen name="keyboard_linearlayout_edit_marginleft">4px</dimen>
+    <dimen name="keyboard_textview_width">343px</dimen>
+    <dimen name="keyboard_textview_marginleft">10px</dimen>
+    <dimen name="keyboard_btn_delete_width">55px</dimen>
+    <dimen name="keyboard_btn_delete_margintop">13px</dimen>
+    <dimen name="keyboard_btn_delete_marginleft">10px</dimen>
+    <dimen name="keyboard_btn_delete_height">32px</dimen>
+    <dimen name="keyboard_linearlayout_btn_width">449px</dimen>
+    <dimen name="keyboard_linearlayout_btn_height">67px</dimen>
+    <dimen name="keyboard_layout_btntoeidt_margintop">21px</dimen>
+    <dimen name="keyboard_layout_btntobtn_margintop">8px</dimen>
+
+    <dimen name="keyboard_imgbtn_width">139px</dimen>
+    <dimen name="keyboard_imgbtn_height">67px</dimen>
+	<dimen name="keyboard_text_number_width">52px</dimen>
+	<dimen name="keyboard_text_letter_marginleft">67px</dimen>
+	<dimen name="keyboard_text_char_height">57px</dimen>
+	<dimen name="keyboard_text_char_margintop">10px</dimen>
+    <dimen name="keyboard_imgbtn_marginleft">16px</dimen>
+    <!-- keyboard end -->
+
+    <!-- bluetoothphonebook start -->
+    <dimen name="bluetoothphonebook_layout_keyboard_marginleft">36px</dimen>
+    <dimen name="bluetoothphonebook_layout_keyboard_margintop">20px</dimen>
+    <dimen name="bluetoothphonebook_btn_call_width">295px</dimen>
+    <dimen name="bluetoothphonebook_btn_call_height">71px</dimen>
+    <dimen name="bluetoothphonebook_btn_call_marginleft">35px</dimen>
+    <dimen name="bluetoothphonebook_btn_call_margintop">436px</dimen>
+    <dimen name="bluetoothphonebook_btn_set_width">139px</dimen>
+    <dimen name="bluetoothphonebook_btn_set_height">71px</dimen>
+    <dimen name="bluetoothphonebook_btn_set_marginleft">346px</dimen>
+    <dimen name="bluetoothphonebook_btn_set_margintop">436px</dimen>
+    <dimen name="bluetoothphonebook_layout_frame_width">127px</dimen>
+    <dimen name="bluetoothphonebook_layout_frame_height">183px</dimen>
+    <dimen name="bluetoothphonebook_layout_frame_marginleft">354px</dimen>
+    <dimen name="bluetoothphonebook_layout_frame_margintop">263px</dimen>
+    <dimen name="bluetoothphonebook_frame_btn_width">127px</dimen>
+    <dimen name="bluetoothphonebook_frame_btn_height">60px</dimen>
+    <dimen name="bluetoothphonebook_frame_btn_download_margintop">62px</dimen>
+    <dimen name="bluetoothphonebook_frame_layout_width">127px</dimen>
+    <dimen name="bluetoothphonebook_frame_layout_height">59px</dimen>
+    <dimen name="bluetoothphonebook_frame_layout_margintop">124px</dimen>
+    <dimen name="bluetoothphonebook_frame_text_width">80px</dimen>
+    <dimen name="bluetoothphonebook_frame_check_width">45px</dimen>
+    <dimen name="bluetoothphonebook_frame_check_height">29px</dimen>
+    <dimen name="bluetoothphonebook_frame_check_margintop">5px</dimen>
+    <dimen name="bluetoothphonebook_layout_list_width">472px</dimen>
+    <dimen name="bluetoothphonebook_layout_list_height">505px</dimen>
+    <dimen name="bluetoothphonebook_layout_list_marginleft">512px</dimen>
+    <dimen name="bluetoothphonebook_layout_list_margintop">19px</dimen>
+    <dimen name="bluetoothphonebook_list_height">418px</dimen>
+    <dimen name="bluetoothphonebook_list_width">438px</dimen>
+    <dimen name="bluetoothphonebook_list_marginleft">15px</dimen>
+    <dimen name="bluetoothphonebook_list_name_width">220px</dimen>
+    <dimen name="bluetoothphonebook_list_name_marginleft">6px</dimen>
+    <dimen name="bluetoothphonebook_list_number_width">160px</dimen>
+    <dimen name="bluetoothphonebook_list_number_marginleft">226px</dimen>
+    <dimen name="bluetoothphonebook_list_type_width">24px</dimen>
+    <dimen name="bluetoothphonebook_list_type_height">24px</dimen>
+    <dimen name="bluetoothphonebook_list_typo_margintop">15px</dimen>
+    <dimen name="bluetoothphonebook_list_type_marginleft">400px</dimen>
+
+    <dimen name="bluetoothphonebook_radiogroup_width">472px</dimen>
+    <dimen name="bluetoothphonebook_radiogroup_height">60px</dimen>
+    <dimen name="bluetoothphonebook_radiogroup_margintop">430px</dimen>
+    <dimen name="bluetoothphonebook_radiobutton_contacts_width">195px</dimen>
+    <dimen name="bluetoothphonebook_radiobutton_contacts_height">60px</dimen>
+	<dimen name="bluetoothphonebook_radiobutton_contacts_marginleft">37px</dimen>
+
+    <dimen name="bluetoothphonebook_downloadcontacts_image_marginleft">170px</dimen>
+    <dimen name="bluetoothphonebook_downloadhistory_image_marginleft">375px</dimen>
+    <dimen name="bluetoothphonebook_download_image_margintop">440px</dimen>
+
+    <!-- bluetoothphonebook end -->
+</resources>

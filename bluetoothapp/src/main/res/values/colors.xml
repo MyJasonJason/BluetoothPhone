@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="translate">#00FFFFFF</color>
+    <color name="phonebook_btn_normal">#052EB5</color>
+    <color name="phonebook_btn_down">#008CF0</color>
+	<color name="listview_item_pressed">#2059a1</color>
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">蓝牙</string>
+
+    <string name="pair_device">已配对列表</string>
+    <string name="unpair_device">可用设备</string>
+    <string name="bluetooth_name">8227L 蓝牙</string>
+	<string name="bluetooth_autoconnect">开机自动连接</string>
+    <string name="bluetooth_pincode">0000</string>
+    <string name="bluetooth_unbond">未配对</string>
+    <string name="bluetooth_bond">已配对</string>
+    <string name="bluetooth_connect">已连接</string>
+    <string name="bluetooth_dialog_pair">配对</string>
+    <string name="bluetooth_dialog_cancel">取消</string>
+    <string name="bluetooth_dialog_delete">删除</string>
+    <string name="bluetooth_dialog_connect">连接</string>
+    <string name="bluetooth_dialog_disconnect">断开</string>
+
+    <string name="bluetoothmusic_unkonow">未知</string>
+    <string name="bluetoothmusic_time">00:00:00</string>
+
+    <string name="bluetoothphone_unkonow">未知</string>
+    <string name="bluetoothphone_state_in">来电</string>
+    <string name="bluetoothphone_state_out">正在呼叫中....</string>
+    <string name="bluetoothphone_control_accept">接听</string>
+    <string name="bluetoothphone_control_reject">挂断</string>
+    <string name="bluetoothphone_control_keyboard">键盘</string>
+    <string name="bluetoothphone_control_mutemic">静音</string>
+    <string name="bluetoothphone_control_audio_car">车载</string>
+    <string name="bluetoothphone_control_audio_phone">手机</string>
+
+    <string name="keyboard_1">1</string>
+    <string name="keyboard_2">2</string>
+	<string name="keyboard_abc">ABC</string>
+    <string name="keyboard_3">3</string>
+	<string name="keyboard_def">DEF</string>
+    <string name="keyboard_4">4</string>
+	<string name="keyboard_ghi">GHI</string>
+    <string name="keyboard_5">5</string>
+	<string name="keyboard_jkl">JKL</string>
+    <string name="keyboard_6">6</string>
+	<string name="keyboard_mno">MNO</string>
+    <string name="keyboard_7">7</string>
+	<string name="keyboard_pqrs">PQRS</string>
+    <string name="keyboard_8">8</string>
+	<string name="keyboard_tuv">TUV</string>
+    <string name="keyboard_9">9</string>
+	<string name="keyboard_wxyz">WXYZ</string>
+    <string name="keyboard_a">*</string>
+    <string name="keyboard_0">0</string>
+    <string name="keyboard_b">#</string>
+
+    <string name="phonebook_frame_set">设置</string>
+    <string name="phonebook_frame_download">重新下载</string>
+    <string name="phonebook_frame_autoanswer">自动接听</string>
+    <string name="phonebook_contacts">联系人</string>
+    <string name="phonebook_call">通话记录</string>
+    <string name="phonebook_unknown">未知号码</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

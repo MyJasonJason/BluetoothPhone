@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        style="@style/BluetoothSet_Text_Style"
+        android:layout_width="@dimen/bluetoothphonebook_list_name_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bluetoothphonebook_list_name_marginleft"
+        android:gravity="center_vertical"
+        android:id="@+id/text_record_name"
+        />
+    <TextView
+        style="@style/BluetoothSet_Text_Style"
+        android:layout_width="@dimen/bluetoothphonebook_list_number_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bluetoothphonebook_list_number_marginleft"
+        android:gravity="center_vertical"
+        android:id="@+id/text_record_number"
+        />
+    <ImageView
+        android:layout_width="@dimen/bluetoothphonebook_list_type_width"
+        android:layout_height="@dimen/bluetoothphonebook_list_type_height"
+        android:layout_marginTop="@dimen/bluetoothphonebook_list_typo_margintop"
+        android:layout_marginLeft="@dimen/bluetoothphonebook_list_type_marginleft"
+        android:visibility="gone"
+        android:id="@+id/iagem_call_type"/>
+
+</RelativeLayout>

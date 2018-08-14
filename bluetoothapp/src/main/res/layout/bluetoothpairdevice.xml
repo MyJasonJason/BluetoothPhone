@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/bluetoothset_list_item_width"
+    android:layout_height="@dimen/bluetoothset_list_item_height"
+    >
+    <TextView
+        style="@style/BluetoothSet_Text_Style"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/bluetoothset_list_item_text_name_marginleft"
+		android:gravity="center_vertical"
+        android:id="@+id/text_device_name"
+        />
+    <TextView
+        style="@style/BluetoothSet_Text_Style"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/bluetoothset_list_item_text_state_marginright"
+		android:gravity="center_vertical"
+        android:id="@+id/text_device_state"
+        />
+
+</RelativeLayout>

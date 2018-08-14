@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">蓝牙</string>
+
+    <string name="pair_device">pairdevice</string>
+    <string name="unpair_device">device</string>
+    <string name="bluetooth_name">8227L 蓝牙</string>
+	<string name="bluetooth_autoconnect">autoConnect</string>
+    <string name="bluetooth_pincode">0000</string>
+    <string name="bluetooth_unbond">unpair</string>
+    <string name="bluetooth_bond">pair</string>
+    <string name="bluetooth_connect">connect</string>
+    <string name="bluetooth_dialog_pair">pair</string>
+    <string name="bluetooth_dialog_cancel">cancel</string>
+    <string name="bluetooth_dialog_delete">delete</string>
+    <string name="bluetooth_dialog_connect">connect</string>
+    <string name="bluetooth_dialog_disconnect">disconnect</string>
+
+    <string name="bluetoothmusic_unkonow">UnKnown</string>
+    <string name="bluetoothmusic_time">00:00:00</string>
+
+    <string name="bluetoothphone_unkonow">UnKnown</string>
+    <string name="bluetoothphone_state_in">incoming</string>
+    <string name="bluetoothphone_state_out">calling....</string>
+    <string name="bluetoothphone_control_accept">answer</string>
+    <string name="bluetoothphone_control_reject">hangup</string>
+    <string name="bluetoothphone_control_keyboard">keyboard</string>
+    <string name="bluetoothphone_control_mutemic">mute</string>
+    <string name="bluetoothphone_control_audio_car">car</string>
+    <string name="bluetoothphone_control_audio_phone">phone</string>
+
+    <string name="keyboard_1">1</string>
+    <string name="keyboard_2">2</string>
+	<string name="keyboard_abc">ABC</string>
+    <string name="keyboard_3">3</string>
+	<string name="keyboard_def">DEF</string>
+    <string name="keyboard_4">4</string>
+	<string name="keyboard_ghi">GHI</string>
+    <string name="keyboard_5">5</string>
+	<string name="keyboard_jkl">JKL</string>
+    <string name="keyboard_6">6</string>
+	<string name="keyboard_mno">MNO</string>
+    <string name="keyboard_7">7</string>
+	<string name="keyboard_pqrs">PQRS</string>
+    <string name="keyboard_8">8</string>
+	<string name="keyboard_tuv">TUV</string>
+    <string name="keyboard_9">9</string>
+	<string name="keyboard_wxyz">WXYZ</string>
+    <string name="keyboard_a">*</string>
+    <string name="keyboard_0">0</string>
+    <string name="keyboard_b">#</string>
+
+    <string name="phonebook_frame_set">Setting</string>
+    <string name="phonebook_frame_download">DownLoader</string>
+    <string name="phonebook_frame_autoanswer">Auto Answer</string>
+    <string name="phonebook_contacts">Contacts</string>
+    <string name="phonebook_call">CallRecord</string>
+    <string name="phonebook_unknown">UnKnown</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
